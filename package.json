@@ -1,0 +1,11 @@
+{
+  "name": "gptmem",
+  "version": "0.0.1",
+  "description": "The JGPTMem class is designed to handle chat interactions utilizing the OpenAI GPT-3.5 Turbo model, with a specific focus on managing a short-term memory. This memory is intended to continuously condense, update, and store interactions between the user and the bot.",
+  "main": "jgptMem.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "_401_Nick",
+  "license": "MIT"
+}
