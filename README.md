@@ -1,3 +1,5 @@
+npm install jgptmem
+
 ### JGPTMem Class
 
 The `JGPTMem` class is designed to facilitate conversations with OpenAI's GPT-3.5-turbo model, while managing a short-term memory to provide a more context-aware interaction.
